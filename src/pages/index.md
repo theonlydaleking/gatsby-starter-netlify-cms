@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Some other sick Title
+title: Nah, even better title
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
